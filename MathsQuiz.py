@@ -1,5 +1,5 @@
 # Author         : Cheri Stevens
-# Student number : 1714347
+# Student number : ###########
 
 # This program is designed to be a multiple maths quiz
 
